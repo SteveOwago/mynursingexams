@@ -18,10 +18,10 @@
                             <a href="{{route('welcome')}}" class="nav-link active">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#{{route('about')}}" class="nav-link">About</a>
+                            <a href="{{route('about')}}" class="nav-link">About</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#{{route('classes')}}" class="nav-link">Classes</a>
+                            <a href="{{route('classes')}}" class="nav-link">Classes</a>
                             {{-- <ul class="dropdown-menu">
                                 <li class="nav-item">
                                     <a href="classes.html" class="nav-link">Classes</a>
@@ -35,13 +35,13 @@
                             </ul> --}}
                         </li>
                         <li class="nav-item">
-                            <a href="#{{route('exams')}}" class="nav-link">Exams</a>
+                            <a href="{{route('exams')}}" class="nav-link">Exams</a>
                         </li>
+                        {{-- <li class="nav-item">
+                            <a href="{{route('contact')}}" class="nav-link">Contact </a>
+                        </li> --}}
                         <li class="nav-item">
-                            <a href="#{{route('contact')}}" class="nav-link">Contact </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#{{route('faq')}}" class="nav-link">FAQs</a>
+                            <a href="{{route('faq')}}" class="nav-link">FAQs</a>
                         </li>
                     </ul>
                 </div>

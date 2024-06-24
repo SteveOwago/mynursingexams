@@ -9,7 +9,7 @@
                         <h2>FAQ</h2>
                         <ul>
                             <li>
-                                <a href="index-2.html"> Home </a>
+                                <a href="{{route('welcome')}}"> Home </a>
                                 <i class="flaticon-fast-forward"></i>
                                 <p class="active">FAQ</p>
                             </li>
@@ -32,12 +32,10 @@
                         <ul class="accordion">
                             <li class="accordion-item">
                                 <a class="accordion-title active" href="javascript:void(0)">
-                                    <i class="fa fa-plus"></i> What courses do you offer?
+                                    <i class="fa fa-plus"></i> What Online Exams do you offer?
                                 </a>
                                 <p class="accordion-content show">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                    gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                                    Our team of experts help our clients with different tests. These tests range from entrance exams to detailed course tests from time to time. Reach us about any of your tests using the whatsapp button below.
                                 </p>
                             </li>
                             <li class="accordion-item">
@@ -51,35 +49,29 @@
                             </li>
                             <li class="accordion-item">
                                 <a class="accordion-title" href="javascript:void(0)">
-                                    <i class="fa fa-plus"></i> Does the Institute have any sports facilities?
+                                    <i class="fa fa-plus"></i> What is our success rate?
                                 </a>
                                 <p class="accordion-content">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                    gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                                    We have a proven track record of producing quality and helping our students pass thier tests. We have helped over 1000 students worldwide.
                                 </p>
                             </li>
                             <li class="accordion-item">
                                 <a class="accordion-title" href="javascript:void(0)">
-                                    <i class="fa fa-plus"></i> How can I become a teacher in Edvi?
+                                    <i class="fa fa-plus"></i> How can I book on your services?
                                 </a>
                                 <p class="accordion-content">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                    gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                                    Bookings to our services is done on our <a href="{{route('bookings')}}" target="_blank" rel="noopener noreferrer">bookings page</a> accessible from the home page
                                 </p>
                             </li>
                             <li class="accordion-item">
                                 <a class="accordion-title" href="javascript:void(0)">
-                                    <i class="fa fa-plus"></i> HHow do submit an application?
+                                    <i class="fa fa-plus"></i> What happens after booking a class or exams?
                                 </a>
                                 <p class="accordion-content">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                    gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                                    One of our team members will reach out to help plan and agree on the timings and other details.
                                 </p>
                             </li>
-                            <li class="accordion-item">
+                            {{-- <li class="accordion-item">
                                 <a class="accordion-title" href="javascript:void(0)">
                                     <i class="fa fa-plus"></i> How do I accept the offer of admission?
                                 </a>
@@ -88,7 +80,7 @@
                                     incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
                                     gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
                                 </p>
-                            </li>
+                            </li> --}}
                         </ul>
                     </div>
                 </div>

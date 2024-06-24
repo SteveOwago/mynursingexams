@@ -124,7 +124,8 @@
                                 compassion, and a strong foundation in essential academic skills. The Test of Essential Academic Skills (TEAS) is a pivotal step in this journey.
 
                             </p>
-                            <a href="#single-class.html" class="border-btn">Read More</a>
+                            <a href="https://web.whatsapp.com/send?phone={{env('WHATSAPP_NUMBER')}}&amp;text=Hello, I wanna know more about TEAS test" class="border-btn">Know More</a>
+
                         </div>
                     </div>
                 </div>
@@ -132,14 +133,15 @@
                     <div class="single-ragular-course">
                         <div class="course-img">
                             <img src="assets/images/courses/img3.png" alt="ragular" />
-                            <h2>NCLEX exam</h2>
+                            <h2>PSB Practical Nursing Examination</h2>
                         </div>
                         <div class="course-content">
                             <p>
-                                The NCLEX uses computerized adaptive testing (CAT), which tailors the difficulty of questions to each candidate's ability level.
-                                The NCLEX is a critical for nurses, ensuring they meet the standards necessary to provide competent care to patients in a healthcare setting.
+                                Designed by the Psychological Services Bureau (PSB), this nursing entrance exam was developed for those pursuing a nursing career.
+                                According to PSB, the Aptitude for Practical Nursing Examination addresses prerequisite knowledge for practical or vocational nursing careers.
                             </p>
-                            <a href="#single-class.html" class="border-btn">Read More</a>
+                            <a href="https://web.whatsapp.com/send?phone={{env('WHATSAPP_NUMBER')}}&amp;text=Hello, I wanna know more about PSB test" class="border-btn">Know More</a>
+
                         </div>
                     </div>
                 </div>
@@ -154,7 +156,8 @@
                                 The Health Education Systems, Inc. (HESI) exam assesses a range of academic skills and knowledge areas crucial for success in nursing programs.
                                 HESI exam is a pivotal step in this becoming a professional and certified Health practitioner.
                             </p>
-                            <a href="#single-class.html" class="border-btn">Read More</a>
+                            <a href="https://web.whatsapp.com/send?phone={{env('WHATSAPP_NUMBER')}}&amp;text=Hello, I wanna know more about HESI test" class="border-btn">Know More</a>
+
                         </div>
                     </div>
                 </div>
@@ -239,7 +242,7 @@
                                 <div class="admission-content">
                                     <h2>Book An Online Class or Exam Schedule</h2>
                                     <p>For your planning, book a slot or schedule a time convinient for you based on your schedule.</p>
-                                    <p>Bookings are ongoing. This provides an avenue to get in touch with you and talk more on the planning and ensuring all teams are well prepared and set up for action.</p>
+                                    <p>Bookings are ongoing. This provides an avenue to get in touch with you and talk more on preparrations for action.</p>
                                     {{-- <ul class="admission-list">
                                         <li>
                                             <p id="days">21</p>
@@ -290,7 +293,7 @@
                             <p>
                                 TEAS exam evaluates essential skills in four key areas: Reading, Mathematics, Science, and English Language.
                             </p>
-                            <a href="#single-class.html" class="box-btn">Read More</a>
+                            <a href="https://web.whatsapp.com/send?phone={{env('WHATSAPP_NUMBER')}}&amp;text=Hello, I wanna know more about TEAS Exams" class="box-btn">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -302,7 +305,7 @@
                             <p>
                                 Forensic nursing is a specialized field where nursing and the legal system intersect.
                             </p>
-                            <a href="#single-class.html" class="box-btn">Read More</a>
+                            <a href="https://web.whatsapp.com/send?phone={{env('WHATSAPP_NUMBER')}}&amp;text=Hello, I wanna know more about the online classes" class="box-btn">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -314,7 +317,7 @@
                             <p>
                                 A specialized medical care approach aimed at improving the quality of life for patients with serious, life-limiting illnesses.
                             </p>
-                            <a href="#single-class.html" class="box-btn">Read More</a>
+                            <a href="https://web.whatsapp.com/send?phone={{env('WHATSAPP_NUMBER')}}&amp;text=Hello, I wanna know more about how you handle classes and what are the available options" class="box-btn">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -326,7 +329,7 @@
                             <p>
                                 The Health Education Systems, Inc. (HESI) exam assesses a range of academic skills and knowledge areas crucial for success in nursing and healthcare programs.
                             </p>
-                            <a href="#single-class.html" class="box-btn">Read More</a>
+                            <a href="https://web.whatsapp.com/send?phone={{env('WHATSAPP_NUMBER')}}&amp;text=Hello, I wanna know more about HESI Exams" class="box-btn">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -334,327 +337,4 @@
         </div>
     </section>
 
-
-    {{-- <section class="course-slider-area">
-        <div class="container">
-            <div class="course-slider owl-carousel owl-theme">
-                <div class="row align-items-center">
-                    <div class="col-lg-5 col-md-5">
-                        <div class="course-slider-img">
-                            <img src="assets/images/courses/slider-img.png" alt="course" />
-                        </div>
-                    </div>
-                    <div class="col-lg-7 col-md-7">
-                        <div class="course-slider-content">
-                            <h2>Cultural Program 01 April 2024</h2>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
-                                Risus commodo viverra maecenas accumsan lacus vel facilisis suspendisse ultrices
-                                gravida.
-                            </p>
-                            <div class="course-slider-btn">
-                                <a href="contact.html" class="box-btn">Registation Now</a>
-                                <a href="events.html" class="border-btn">See More Events</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row align-items-center">
-                    <div class="col-lg-5 col-md-5">
-                        <div class="course-slider-img">
-                            <img src="assets/images/courses/slider-img2.png" alt="course" />
-                        </div>
-                    </div>
-                    <div class="col-lg-7 col-md-7">
-                        <div class="course-slider-content">
-                            <h2>Annual Program 01 April 2024</h2>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
-                                Risus commodo viverra maecenas accumsan lacus vel facilisis suspendisse ultrices
-                                gravida.
-                            </p>
-                            <div class="course-slider-btn">
-                                <a href="contact.html" class="box-btn">Registation Now</a>
-                                <a href="events.html" class="border-btn">See More Events</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <span class="left-shape">
-        <img src="assets/images/left-shape.png" alt="shape" />
-    </span>
-
-    <section class="home-news pb-100 pt-100">
-        <div class="container">
-            <div class="section-tittle text-center">
-                <h2>Our Daily News Update</h2>
-                <p>
-                    A college course is a class offered by a college or university. These courses are usually part of a
-                    program leading.
-                </p>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-home-news">
-                        <a href="single-news.html">
-                            <img src="assets/images/news/img1.png" alt="news" />
-                        </a>
-                        <div class="single-home-content">
-                            <h2>Soccer completed successfully</h2>
-                            <p class="calender">
-                                <i class="flaticon-calendar"></i> 01 April, 2024
-                            </p>
-                            <p>
-                                It is a long established fact that a reader will be distracted by the readable content
-                                of a page.
-                            </p>
-                            <a href="single-news.html" class="line-bnt">Read More <i class="flaticon-next"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-home-news">
-                        <a href="single-news.html">
-                            <img src="assets/images/news/img2.png" alt="news" />
-                        </a>
-                        <div class="single-home-content">
-                            <h2>Top Resuslt Holder 2024</h2>
-                            <p class="calender">
-                                <i class="flaticon-calendar"></i> 01 April, 2024
-                            </p>
-                            <p>
-                                It is a long established fact that a reader will be distracted by the readable content
-                                of a page.
-                            </p>
-                            <a href="single-news.html" class="line-bnt">Read More <i class="flaticon-next"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 sst-10">
-                    <div class="single-home-news">
-                        <a href="single-news.html">
-                            <img src="assets/images/news/img3.png" alt="news" />
-                        </a>
-                        <div class="single-home-content">
-                            <h2>Leaning About Virus COVID-19</h2>
-                            <p class="calender">
-                                <i class="flaticon-calendar"></i> 01 April, 2024
-                            </p>
-                            <p>
-                                It is a long established fact that a reader will be distracted by the readable content
-                                of a page.
-                            </p>
-                            <a href="single-news.html" class="line-bnt">Read More <i class="flaticon-next"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section class="home-teachers-area">
-        <div class="container">
-            <div class="section-tittle text-center">
-                <h2>Honorable Teachers</h2>
-                <p>
-                    A college course is a class offered by a college or university. These courses are usually part of a
-                    program leading.
-                </p>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-home-teacher">
-                        <div class="teacher-img">
-                            <a href="single-teacher.html">
-                                <img src="assets/images/teachers/img9.png" alt="teacher" /></a>
-                        </div>
-                        <div class="teachers-content">
-                            <h2>John Doe</h2>
-                            <p>Assistant Teacher</p>
-                        </div>
-                        <div class="teacher-social">
-                            <ul>
-                                <li>
-                                    <a href="https://www.facebook.com/login/" target="_blank"><i
-                                            class="flaticon-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/i/flow/login" target="_blank"><i
-                                            class="flaticon-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="contact.html"><i class="flaticon-envelope"></i></a>
-                                </li>
-                                <li>
-                                    <a href="about.html"><i class="flaticon-right-arrow"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-home-teacher">
-                        <div class="teacher-img">
-                            <a href="single-teacher.html">
-                                <img src="assets/images/teachers/img8.png" alt="teacher" /></a>
-                        </div>
-                        <div class="teachers-content">
-                            <h2>Evana Doe</h2>
-                            <p>Teacher</p>
-                        </div>
-                        <div class="teacher-social">
-                            <ul>
-                                <li>
-                                    <a href="https://www.facebook.com/login/" target="_blank"><i
-                                            class="flaticon-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/i/flow/login" target="_blank"><i
-                                            class="flaticon-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="contact.html"><i class="flaticon-envelope"></i></a>
-                                </li>
-                                <li>
-                                    <a href="about.html"><i class="flaticon-right-arrow"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-home-teacher">
-                        <div class="teacher-img">
-                            <a href="single-teacher.html">
-                                <img src="assets/images/teachers/img3.png" alt="teacher" /></a>
-                        </div>
-                        <div class="teachers-content">
-                            <h2>Smith Doe</h2>
-                            <p>English Teacher</p>
-                        </div>
-                        <div class="teacher-social">
-                            <ul>
-                                <li>
-                                    <a href="https://www.facebook.com/login/" target="_blank"><i
-                                            class="flaticon-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/i/flow/login" target="_blank"><i
-                                            class="flaticon-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="contact.html"><i class="flaticon-envelope"></i></a>
-                                </li>
-                                <li>
-                                    <a href="about.html"><i class="flaticon-right-arrow"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-home-teacher">
-                        <div class="teacher-img">
-                            <a href="single-teacher.html">
-                                <img src="assets/images/teachers/img12.png" alt="teacher" /></a>
-                        </div>
-                        <div class="teachers-content">
-                            <h2>Marida Doe</h2>
-                            <p>Cultuaral Advisor</p>
-                        </div>
-                        <div class="teacher-social">
-                            <ul>
-                                <li>
-                                    <a href="https://www.facebook.com/login/" target="_blank"><i
-                                            class="flaticon-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/i/flow/login" target="_blank"><i
-                                            class="flaticon-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="contact.html"><i class="flaticon-envelope"></i></a>
-                                </li>
-                                <li>
-                                    <a href="about.html"><i class="flaticon-right-arrow"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section class="home-contact-area pb-100 pt-100">
-        <div class="container-fluid">
-            <div class="row align-items-center">
-                <div class="col-lg-6 ps-0">
-                    <div class="contact-img">
-                        <img src="assets/images/contact.png" alt="contact" />
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="home-contact-content">
-                        <h2>What Do You Want to Know?</h2>
-                        <form id="contactForm">
-                            <div class="row">
-                                <div class="col-lg-6 col-sm-6">
-                                    <div class="form-group">
-                                        <input type="text" name="name" id="name" class="form-control"
-                                            required data-error="Please enter your name" placeholder="Your Name" />
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-sm-6">
-                                    <div class="form-group">
-                                        <input type="email" name="email" id="email" class="form-control"
-                                            required data-error="Please enter your email" placeholder="Your Email" />
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-sm-6">
-                                    <div class="form-group">
-                                        <input type="text" name="phone_number" id="phone_number" required
-                                            data-error="Please enter your number" class="form-control"
-                                            placeholder="Your Phone" />
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-sm-6">
-                                    <div class="form-group">
-                                        <input type="text" name="msg_subject" id="msg_subject" class="form-control"
-                                            required data-error="Please enter your subject" placeholder="Your Subject" />
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12 col-md-12">
-                                    <div class="form-group">
-                                        <textarea name="message" class="form-control" id="message" cols="30" rows="5" required
-                                            data-error="Write your message" placeholder="Your Message"></textarea>
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12 col-md-12">
-                                    <button type="submit" class="default-btn page-btn box-btn">
-                                        Send Message
-                                    </button>
-                                    <div id="msgSubmit" class="h3 text-center hidden"></div>
-                                    <div class="clearfix"></div>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> --}}
 @endsection
