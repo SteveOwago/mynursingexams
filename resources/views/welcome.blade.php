@@ -133,14 +133,13 @@
                     <div class="single-ragular-course">
                         <div class="course-img">
                             <img src="assets/images/courses/img3.png" alt="ragular" />
-                            <h2>PSB Practical Nursing Examination</h2>
+                            <h2>Nursing Prerequisites</h2>
                         </div>
                         <div class="course-content">
                             <p>
-                                Designed by the Psychological Services Bureau (PSB), this nursing entrance exam was developed for those pursuing a nursing career.
-                                According to PSB, the Aptitude for Practical Nursing Examination addresses prerequisite knowledge for practical or vocational nursing careers.
+                                Nursing Prerequisite courses and tests helps students to graps fundamentals of nursing. At MyNursingExams, we help students tackle nursing prerequisite classes, sessions, and online tests in anatomy, physiology, microbiology, college algebra, chemistry, and english tests.
                             </p>
-                            <a href="https://web.whatsapp.com/send?phone={{env('WHATSAPP_NUMBER')}}&amp;text=Hello, I wanna know more about PSB test" class="border-btn">Know More</a>
+                            <a href="https://web.whatsapp.com/send?phone={{env('WHATSAPP_NUMBER')}}&amp;text=Hello I wanna know more about prerequisite nursing courses" class="border-btn">Know More</a>
 
                         </div>
                     </div>
@@ -149,12 +148,11 @@
                     <div class="single-ragular-course">
                         <div class="course-img">
                             <img src="assets/images/courses/img2.png" alt="ragular" />
-                            <h2>HESI Exams</h2>
+                            <h2>Core Nursing Exams & Classes</h2>
                         </div>
                         <div class="course-content">
                             <p>
-                                The Health Education Systems, Inc. (HESI) exam assesses a range of academic skills and knowledge areas crucial for success in nursing programs.
-                                HESI exam is a pivotal step in this becoming a professional and certified Health practitioner.
+                                At MyNursingExams, we have talented academic experts in handling class modules and exams in med-surg, fundamentals of nursing, obsgyn, peds and adult nursing. We offer an opportunity of excellence to our students.
                             </p>
                             <a href="https://web.whatsapp.com/send?phone={{env('WHATSAPP_NUMBER')}}&amp;text=Hello, I wanna know more about HESI test" class="border-btn">Know More</a>
 
