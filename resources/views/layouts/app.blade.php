@@ -4,7 +4,7 @@
 <head>
     @include('layouts.partials.head')
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-X0L1QE93NE"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16634115007"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -13,7 +13,7 @@
         }
         gtag('js', new Date());
 
-        gtag('config', 'G-X0L1QE93NE');
+        gtag('config', 'AW-16634115007');
     </script>
 </head>
 
