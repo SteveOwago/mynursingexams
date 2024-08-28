@@ -22,7 +22,7 @@ class TransactionController extends Controller
     }
 
 
-    public function paymentQuery(Request $request){
+    public function transactionStatusQuery(Request $request){
         info('+++++++++++++++++++++++++++++++++++++++++++++++');
         info('++++++++++++++++++++Transaction Query Response+++++++++++++++++++++++++++');
         $payload = json_decode($request->getContent());
