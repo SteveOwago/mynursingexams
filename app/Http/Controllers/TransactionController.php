@@ -46,13 +46,9 @@ class TransactionController extends Controller
             info('+++++++++++++++++++++++++++++++++++++++++++++++');
             info($TransactionID);
             info('+++++++++++++++++++++++++++++++++++++++++++++++');
-
-            $this->setFailed(false);
         } else {
-            $this->setFailed(true);
+            info('FAILED TO QUERY');
         }
-
-        $this->setResponse($payload);
 
         return $this;
     }
